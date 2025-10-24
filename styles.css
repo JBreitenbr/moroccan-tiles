@@ -1,4 +1,5 @@
 body {
   background-image: url("moroccan_tiles.jpg");
+  background-size: 60px 60px;
   background-repeat: repeat;
 }
